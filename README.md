@@ -1,5 +1,5 @@
-<h1 align="center" font>Hi 👋, I'm Ajay Kumar</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
+<h3 align="center">A Passionate Programmer</h3>
 
 ###
 
